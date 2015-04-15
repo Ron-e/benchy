@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # temporarily urls!
-# wget https://raw.githubusercontent.com/Ron-e/benchy/benchy.sh -O - -o /dev/null|bash
-# bash <(curl -L -Ss https://raw.githubusercontent.com/Ron-e/benchy/benchy.sh)
+# wget https://raw.githubusercontent.com/Ron-e/benchy/master/benchy.sh -O - -o /dev/null|bash
+# bash <(curl -L -Ss https://raw.githubusercontent.com/Ron-e/benchy/master/benchy.sh)
 
 stime=$(date +"%m-%d-%Y %T")
 cstime=`date +%s`
